@@ -36,8 +36,8 @@
               <a class="dropdown-item" href="list60.php">Années 60</a>
               <a class="dropdown-item" href="list70.php">Années 70</a>
               <a class="dropdown-item" href="list80.php">Années 80</a>
-              <a class="dropdown-item" href="#">Années 90</a>
-              <a class="dropdown-item" href="#">Années 2000</a>
+              <a class="dropdown-item" href="list90.php">Années 90</a>
+              <a class="dropdown-item" href="list2000.php">Années 2000</a>
             </div>
           </li>
 
