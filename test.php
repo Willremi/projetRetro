@@ -9,7 +9,7 @@
     </div>
 </div>
 <div id="annee60">
-    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet aut ut veniam ipsum voluptatibus aliquid eligendi voluptatum neque. Ab omnis a enim deserunt, quasi culpa assumenda repellendus. Quos nihil labore molestias eius rerum officia rem laborum voluptatum expedita similique. Nostrum ipsam non odio repudiandae ad adipisci.</p>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet aut ut veniam ipsum voluptatibus aliquid eligendi voluptatum neque. Ab omnis a enim deserunt, quasi culpa assumenda repellendus. Quos nihil labore molestias eius rerum officia rem laborum voluptatum expedita similique. Nostrum ipsam non odio repudiandae ad adipisci..</p>
 </div>
 <script src="js/test.js"></script>
 <?php require('footer.php'); ?>
