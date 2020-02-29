@@ -50,4 +50,12 @@ table tbody td a {
   height: 200px;
 }
 
+#carousel {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  display: hidden;
+  left: 100px;
+}
+
 /*# sourceMappingURL=style.css.map */

@@ -17,3 +17,35 @@ alba.load().then(function(loaded_face) {
  
 elt.style.fontFamily = "Typewriter";
 elt1.style.fontFamily = "alba";
+
+// ----------------------------------------
+var slides = [
+    "<div id='slide1'>ma première photo<img src='../img/incorrup2.jpg'></div>", 
+    "<div id='slide2'>ma deuxième photo<img src='../img/incorrup2.jpg'></div>", 
+    "<div id='slide3'>ma troisième photo<img src='../img/incorrup3.jpg'></div>",  
+    "<div id='slide4'>ma quatrième photo<img src='../img/incorrup4.jpg'></div>",  
+];
+
+var currentSlide = 0;
+var numberOfSlides = slides.length-1;
+
+window.addEventListener("load", loader, false);
+
+function loader () {
+    changeImage();
+}
+
+function changeImage() {
+    console.log("Fonction changeImage");
+    if(currentSlide > numberOfSlides) {
+        currentSlide = 0;
+    }
+    
+    document.getElementById("carousel").innerHTML = slides[currentSlide];
+
+    console.log('Affichage de la photo' + currentSlide + " sur" + numberOfSlides);
+    currentSlide++;
+
+    setTimeout(changeImage, 20000);
+    
+}
