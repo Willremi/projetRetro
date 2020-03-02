@@ -62,7 +62,8 @@
             </div>
             
           </div>
-        <table class="table table-bordered rounded saison">
+          <div class="offset-sm-1 col-md-10">
+          <table class="table table-bordered rounded saison">
           <tr>
             <td>Pilote</td>
             <td>Saison 1</td>
@@ -85,13 +86,20 @@
             <td>1962 - 1963</td>
           </tr>
         </table>
+          </div>
         <div class="offset-sm-2">
           <h2>Les images et vidéos</h2>
+          <iframe width="420" height="315"
+          src="https://www.youtube.com/embed/ViA0Tuix-50">
+          </iframe>
+          <p>Générique fait par Nelson Riddle</p>
           <img src="img/incorrup1.jpg" alt="" class="img-thumbnail mr-2">   
           <img src="img/incorrup2.jpg" alt="" class="img-thumbnail mr-2">   
           <img src="img/incorrup3.jpg" alt="" class="img-thumbnail mr-2"> 
           <img src="img/incorrup4.jpg" alt="" class="img-thumbnail">
+          <br><br>
           
+        
         </div>
         
         </div><!-- fin row -->
