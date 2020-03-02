@@ -25,7 +25,7 @@
               </thead>
               <tbody>
                 <tr>
-                  <td>Doctor Who (première série)</td>
+                  <td><a href="who.php">Doctor Who (première série)</a></td>
                   <td>Science Fiction</td>
                   <td>Sylvester McCoy, Sophie Aldred</td>
                   <td>Sydney Newman, Donald Wilson</td>
