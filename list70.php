@@ -56,7 +56,22 @@
                   <td>1976 - 1978</td>
                   <td>USA(1976), France(1977)</td>
                 </tr>
-                
+                <tr>
+                  <td>San Ku Kai</td>
+                  <td>Science fiction</td>
+                  <td>Hiroyuki Sanada, Akira Oda, Rio Nishida</td>
+                  <td>Minoru Yamada, Tôru Hirayama</td>
+                  <td>1978 - 1979</td>
+                  <td>Japon(1978), France(1979)</td>
+                </tr>
+                <tr>
+                  <td>Kamen Rider</td>
+                  <td>Science fiction, Action</td>
+                  <td>Hiroshi Fujioka, Takeshi Sasaki, Akiji Kobayashi</td>
+                  <td>Shotaro Ishinomori</td>
+                  <td>1971 - 1973</td>
+                  <td>Japon(1971)</td>
+                </tr>
               </tbody>
             </table>
             

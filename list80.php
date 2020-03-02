@@ -51,8 +51,24 @@
                   <td>Policier</td>
                   <td>Angela Lansbury</td>
                   <td>Richard Levinson, William Link</td>
-                  <td>1984 - 19996</td>
+                  <td>1984 - 1996</td>
                   <td>USA(1984), France(1986)</td>
+                </tr>
+                <tr>
+                  <td>X-Or</td>
+                  <td>Action</td>
+                  <td>Kenji Oba</td>
+                  <td>Hattori Kazuyasu, Toshiaki Kobayashi</td>
+                  <td>1982 - 1983</td>
+                  <td>Japon(1982), France(1983)</td>
+                </tr>
+                <tr>
+                  <td>Bioman</td>
+                  <td>Action, Science Fiction</td>
+                  <td>Ryosuke Sakamoto, Naoto Tada</td>
+                  <td>Saburo Hatte, Yatsude</td>
+                  <td>1984 - 1985</td>
+                  <td>Japon(1984), France(1985)</td>
                 </tr>
                 
               </tbody>

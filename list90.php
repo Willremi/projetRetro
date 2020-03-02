@@ -37,9 +37,17 @@
                   <td>Alerte Cobra</td>
                   <td>Policier, Action</td>
                   <td>Erdoğan Atalay, Daniel Roesner, Katja Woywood</td>
-                  <td>	Claude Cueni</td>
+                  <td>Claude Cueni</td>
                   <td>1996 - En diffusion</td>
                   <td>Allemagne(1996), France(1997)</td>
+                </tr>
+                <tr>
+                  <td>Jetman</td>
+                  <td>Science Fiction, Action</td>
+                  <td>Kotaro Tanaka</td>
+                  <td>Saburo Hatte, Yatsude</td>
+                  <td>1991 - 1992</td>
+                  <td>Japon(1991)</td>
                 </tr>
                 
               </tbody>
