@@ -50,6 +50,15 @@ table tbody td a {
   height: 200px;
 }
 
+#imageSerie {
+  float: right;
+  max-width: 50%;
+}
+
+#generique {
+  float: left;
+}
+
 #carousel {
   position: absolute;
   width: 300px;
