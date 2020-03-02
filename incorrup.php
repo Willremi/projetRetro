@@ -89,7 +89,7 @@
           </div>
         <div class="offset-sm-1">
           <h2>Les images et vidéos</h2>
-          
+          <hr class="ligne">
           <div id="generique">
           <iframe width="420" height="315"
           src="https://www.youtube.com/embed/ViA0Tuix-50">
