@@ -64,6 +64,15 @@
                   <td>1965</td>
                   <td>France(1965)</td>
                 </tr>
+                <tr>
+                  <td>Skippy le kangourou</td>
+                  <td>Aventure, Famille</td>
+                  <td>Ed Devereaux, Garry Pankhurst, Ken James</td>
+                  <td>Dennis Hill (II), Lee Robinson</td>
+                  <td>1966 - 1968</td>
+                  <td>Australie et France(1968)</td>
+                </tr>
+                
               </tbody>
             </table>
             

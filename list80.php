@@ -70,6 +70,14 @@
                   <td>1984 - 1985</td>
                   <td>Japon(1984), France(1985)</td>
                 </tr>
+                <tr>
+                  <td>Sydney Police</td>
+                  <td>Action, Policier, Drame</td>
+                  <td>Gary Sweet, Sonia Todd, Steve Bastoni</td>
+                  <td>Christopher Lee (III)</td>
+                  <td>1989 - 1996</td>
+                  <td>Australie(1989), France(1995)</td>
+                </tr>
                 
               </tbody>
             </table>
