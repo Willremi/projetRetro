@@ -87,13 +87,15 @@
           </tr>
         </table>
           </div>
-        <div class="offset-sm-2">
+        <div class="offset-sm-1">
           <h2>Les images et vidéos</h2>
+          
           <div id="generique">
           <iframe width="420" height="315"
           src="https://www.youtube.com/embed/ViA0Tuix-50">
           </iframe>
           <p>Générique fait par Nelson Riddle</p>
+          <p> Nelson Riddle est un jazzman très en vogue à l'époque qui est appelé aux commandes de la musique. Nelson Riddle signe le thème principal et les musiques des différents épisodes. Douze de celles-ci, ainsi que la générique historique, figurent sur l'album publié en 1960.</p>
           </div>
           <div id="imageSerie">
           <img src="img/incorrup1.jpg" alt="" class="img-thumbnail mr-2">   
