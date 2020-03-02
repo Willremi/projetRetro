@@ -97,7 +97,7 @@
           src="https://www.youtube.com/embed/ViA0Tuix-50">
           </iframe>
           <p>Générique fait par Nelson Riddle</p>
-          <p> Nelson Riddle est un jazzman très en vogue à l'époque qui est appelé aux commandes de la musique. Nelson Riddle signe le thème principal et les musiques des différents épisodes. Douze de celles-ci, ainsi que la générique historique, figurent sur l'album publié en 1960.</p>
+          <p> Nelson Riddle est un jazzman très en vogue à l'époque qui est appelé aux commandes de la musique. Il signe le thème principal et les musiques des différents épisodes. Douze de celles-ci, ainsi que la générique historique, figurent sur l'album publié en 1960.</p>
           <figure>
             <figcaption>La version MP3 du générique :</figcaption>
             <audio
