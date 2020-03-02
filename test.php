@@ -20,5 +20,6 @@ img {
 <div id="carousel"></div>
 
 </div>
+
 <script src="js/test.js" async></script>
 <?php require('footer.php'); ?>
