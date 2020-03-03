@@ -18,6 +18,14 @@
               </thead>
               <tbody>
                 <tr>
+                  <td><a href="highlander.php">Highlander</a></td>
+                  <td>Fantastique</td>
+                  <td>Adrian Paul, Jim Byrnes, Elizabeth Gracen</td>
+                  <td>	Gregory Widen</td>
+                  <td>1992 - 1998</td>
+                  <td>USA(1992), France(1993)</td>
+                </tr>
+                <tr>
                   <td>Friends</td>
                   <td>Comédie, sitcom</td>
                   <td>Jennifer Aniston, Courteney Cox, Matt Leblanc</td>

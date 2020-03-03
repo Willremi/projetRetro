@@ -95,7 +95,7 @@
         <div class="offset-sm-1">
         <h2>Annecdotes</h2>
           <ul class="annecdote" type="circle">
-            <li>Selon Ryōsuke Sakamoto, la mort de Force Jaune dans le dixième épisode était prévue depuis le début de la série afin de montrer que l'arrogance peut conduire à la perte. Cette explication est bien différente de la rumeur de l'époque, qui voulait que cette mort ait été causée par le départ soudain de Yuki Yajima du Japan Action Club, en raison d'un problème de salaire .</li>
+            <li>Selon Ryōsuke Sakamoto, la mort de Force Jaune dans le dixième épisode était prévue depuis le début de la série afin de montrer que l'arrogance peut conduire à la perte. Cette explication est bien différente de la rumeur de l'époque, qui voulait que cette mort ait été causée par le départ soudain de Yuki Yajima du Japan Action Club, en raison d'un problème de salaire.</li>
             <br>
             <li>La version française de la série eut plusieurs génériques différents : pour sa première diffusion sur Canal+, Michel Barouille proposa des génériques français de début et de fin très proches des génériques japonais, et sur TF1, Bernard Minet interpréta un titre sans aucun rapport avec l'esprit des musiques de la série (ce qu'il fit également pour Flashman, Maskman, Liveman et Turboranger).</li>
             <br>
