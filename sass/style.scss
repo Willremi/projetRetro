@@ -75,6 +75,15 @@ caption {
     
   }
 
+  @font-face {
+    font-family: Typewriter;
+    src: url("../fonts/jmh_typewriter_dry/Typewriter-Thin.otf");
+  }
+
+  #annee50 {
+      font-family: Typewriter;
+  }
+
 // ------------------------------------
 #carousel {
     position: absolute;

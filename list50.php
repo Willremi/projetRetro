@@ -1,6 +1,6 @@
 <?php require('header.php'); ?>
 
-  <style>
+  <!-- <style>
       @font-face {
         font-family: Typewriter;
         src: url("fonts/jmh_typewriter_dry/Typewriter-Thin.otf");
@@ -13,9 +13,9 @@
       .jumbotron {
       filter: grayscale(100%);
       }
-    </style>
+    </style> -->
 
-  <div class="container-fluid">
+  <div class="container-fluid" id="annee50">
       <div class="row">
         <div class="col-md-12 col-sm-12">
             <h1 class="mt-2">Liste des séries des années 50</h1>
