@@ -18,31 +18,21 @@
               </thead>
               <tbody>
                 <tr>
-                  <td>Friends</td>
-                  <td>Comédie, sitcom</td>
-                  <td>Jennifer Aniston, Courteney Cox, Matt Leblanc</td>
-                  <td>David Crane, Marta Kauffman</td>
-                  <td>1994 - 2004</td>
-                  <td>USA(1994), France(1996)</td>
+                  <td>Tessa à la pointe de l'épée </td>
+                  <td>Aventure, Western</td>
+                  <td>Tessie Santiago, Anthony Lemke, Peter Wingfield</td>
+                  <td>David Abramowitz</td>
+                  <td>2000-2001</td>
+                  <td>USA(2000), France(2002)</td>
                 </tr>
                 <tr>
-                  <td>Buffy contre les vampires</td>
-                  <td>Action, Fantastique</td>
-                  <td>Sarah Michelle Gellar, Alyson Hannigan, Nicholas Brendan</td>
-                  <td>Joss Whedon</td>
-                  <td>1997 - 2003</td>
-                  <td>USA(1997), France(1998)</td>
+                  <td>La Famille Safari</td>
+                  <td>Aventure, dramatique</td>
+                  <td>Leah Pipes, Stephanie Niznik,Donald Warren Moffett</td>
+                  <td>Michael Rauch</td>
+                  <td>2007-2008</td>
+                  <td>USA(2007), France(2009)</td>
                 </tr>
-                <tr>
-                  <td>Alerte Cobra</td>
-                  <td>Policier, Action</td>
-                  <td>Erdoğan Atalay, Daniel Roesner, Katja Woywood</td>
-                  <td>Claude Cueni</td>
-                  <td>1996 - En diffusion</td>
-                  <td>Allemagne(1996), France(1997)</td>
-                </tr>
-                
-                
               </tbody>
             </table>
             
