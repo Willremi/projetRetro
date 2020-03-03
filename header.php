@@ -16,7 +16,7 @@
 </head>
 <body>
   <header>
-      <div class="jumbotron jumbotron-fluid">
+      <div class="jumbotron jumbotron-fluid" id="jumbotron">
         <div class="container">
           <h1 class="display-4">RétroSérie</h1>
           

@@ -1,10 +1,17 @@
 var elt = document.getElementById('annee50');
-var jumbotron = document.getElementsByClassName('jumbotron');
+var jumbotron = document.getElementById('jumbotron');
 
 var nom = location.href;
 nom = nom.split("/");
 nom = nom[nom.length - 1];
 
 nom = nom.substr(0, nom.lastIndexOf("."));
-console.log(nom);
+nom = nom.split('list');
+console.log(nom[1]);
 
+
+if(nom[1] == 50) {
+    alert("youpi, ça marche");
+} else {
+    alert("merde");
+}
