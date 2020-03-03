@@ -190,10 +190,10 @@
           </figure>
           </div>
           <div id="imageSerie">
-          <img src="img/incorrup1.jpg" alt="" class="img-thumbnail mr-2">   
-          <img src="img/incorrup2.jpg" alt="" class="img-thumbnail mr-2">   
-          <img src="img/incorrup3.jpg" alt="" class="img-thumbnail mr-2"> 
-          <img src="img/incorrup4.jpg" alt="" class="img-thumbnail">
+          <img src="img/who1.jpg" alt="" class="img-thumbnail mr-2">   
+          <img src="img/who2.jpg" alt="" class="img-thumbnail mr-2">   
+          <img src="img/who3.jpg" alt="" class="img-thumbnail mr-2"> 
+          <img src="img/who4.jpg" alt="" class="img-thumbnail">
           </div>
         </div>
           
@@ -201,26 +201,24 @@
         <div class="offset-sm-1">
         <h2>Annecdotes</h2>
           <ul class="annecdote" type="circle">
-            <li>Les Incorruptibles n’a pas démarré sur ABC. En effet, le téléfilm original, adapté des écrits d’Eliot Ness en personne et Oscar Fraley, a été proposé en avril 1959 dans le Desilu Playhouse de CBS. Fort du succès du pilote, Quinn Martin, jeune producteur en devenir, s’est vu confier le projet d’une série. Ce dernier deviendra par la suite le créateur du Fugitif, Les Envahisseurs, Cannon ou encore Les Rues de San Francisco.</li>
+            <li>Entre 1967 et 1978, une grande partie des enregistrements sur différents formats possédés par la BBC furent détruits ou tout simplement effacés. En effet, la bande magnétique était très chère à cette époque et effacer les anciennes bandes pour les réutiliser était une pratique courante.
             <br>
-            <li>Dans la lignée de la grande tradition du film noir cher au cinéma américain, Les Incorruptibles a été la série la plus violente de la télévision lors de sa diffusion. Pour accentuer son atmosphère, elle a été filmée en grande partie de nuit. La reconstitution du Chicago des années 1930 est très précise, avec les véhicules, les armes, les tenues et les décors. Chaque épisode est introduit en voix off.</li>
+            Parmi ces enregistrements détruits, on trouvait beaucoup de vieux épisodes, notamment ceux avec les trois premiers Docteur (incarnés respectivement par William Hartnell, Patrick Troughton et Jon Pertwee). En tout, 97 des 253 épisodes réalisés durant les six premières années de la série ne sont pas dans les archives de la BBC. Cependant, la chaîne cessa d’effacer ses cassettes en 1978, et la perte des épisodes prit fin.</li>
             <br>
-            <li>Elizabeth Ness, la veuve du plus célèbre des Incorruptibles, a déclaré en 1961 : « Je suis très heureuse de l’interprétation de M. Stack. Il a la même voix tranquille et la même gentillesse qui caractérisaient Eliot. Il sourit moins, mais on a donné à M. Stack l’occasion de rire moins souvent qu’à Eliot dans la vie ».</li>
+            <li>De nombreux épisodes ont été renvoyés à la BBC, provenant des archives d’autres pays qui avaient diffusé la série. Des enregistrements faits par des fans, des extraits diffusés dans d’autres émissions ainsi que des captures d'images ont également été récupérés. De plus, des versions audio de tous les épisodes perdus existent, faits par des téléspectateurs qui ont fait un enregistrement du programme.</li>
             <br>
-            <li>Malgré son succès populaire sur sa case du jeudi soir, Les Incorruptibles a essuyé de nombreuses critiques aux États-Unis. La communauté italo-américaine, et en première ligne Frank Sinatra, reprochait aux producteurs de n’utiliser que des patronymes italiens pour les criminels traqués. De son point de vue, J. Edgar Hoover, patron du FBI, n’appréciait pas plus la série, et notamment les libertés prises avec la réalité, dont dans l’arrestation de Ma Barker. Les descendants d’Al Capone ont également exigé la somme d’1 million de dollars de dommages et intérêts pour « exploitation de la notoriété » de leur aïeul...</li>
+            <li>Un des moments perdus les plus importants concerne l'épisode mettant en scène la régénération du premier Docteur, dans la quatrième partie de l’épisode The Tenth Planet (1966). Le seul enregistrement que l’on possède de cet épisode est un film 8 mm silencieux, de très mauvaise qualité, et qui ne montre que quelques secondes de la régénération.</li>
             <br>
-            <li>Lors de la saison 4, la série a été édulcorée à la suite des nombreuses critiques. La firme Liggett et Myers, qui parrainait le show, s’est retirée cette même année suite à une menace de boycott.</li>
+            <li>Tous les épisodes mettant en scène le troisième Docteur ont été récupérés, parfois en noir et blanc (la série était alors passée à la couleur), mais il demeure à ce jour un grand nombre d'épisodes perdus parmi les périodes du premier Docteur, et surtout celle du deuxième qui compte le plus d'épisodes manquants.</li>
             <br>
-            <li>Suite au succès de la série, Robert Stack a accepté de rendosser l’imper d’Eliot Ness en 1991 dans Le Retour d’Eliot Ness. Quelques années plus tôt, en 1987, Kevin Costner avait repris le rôle pour le grand écran, aux côtés de Sean Connery et Robert de Niro, sous la direction de Brian de Palma. En 1993, une série dérivée a été produite. Le Retour des incorruptibles compte 42 épisodes.</li>
-            <br>
-            <li>En France, le pilote a été découvert au cinéma en 1961 sous le titre Le Tueur de Chicago (rebaptisé en 1966 Les Incorruptibles défient Al Capone). La série a, quant à elle, été diffusée sur la deuxième chaîne de l’ORTF dès janvier 1964. Elle a ensuite été à l’antenne de TF1 au cours des années 1980, puis FR3, M6, Série Club ou TV Breizh.</li>
+            <li>Désormais, avec l’approbation de la BBC, des efforts sont faits pour restaurer autant que possible les épisodes perdus, à partir de ce qu’il en reste. Dès le début des années 1990, la BBC a commencé à sortir des enregistrements audio de ces épisodes en cassettes et CD. Des reconstructions « officielles » ont également été commercialisées par la BBC en MP3 et sur VHS et CD-ROM, ainsi qu’en tant que bonus sur certains DVD. La BBC, en coopération avec les studios d’animation Cosgrove Hall Films puis avec ses propres studios d'animation, a reconstruit plusieurs épisodes sous forme de dessins animés ; à ce jour les épisodes reconstitués de cette façon sont: The Reign of Terror parties 4 et 5, The Tenth Planet partie 4, The Moonbase parties 1 et 3, The Ice Warriors parties 2 et 3, The Faceless Ones parties 1 à 6, The Invasion parties 1 et 4 et The Power of the Daleks en intégralité.</li>
           </ul>
           <hr class="ligne">
         </div>
         
-        <div class="offset-sm-4">
+        <div class="offset-sm-1">
           <h2>Distinctions</h2>
-          <p>Emmy Awards 1960 : Meilleur acteur pour Robert Stack</p>
+          <p>Bien que l'ancienne version de Doctor Who (1963-1989) fût très regardée, la série n'a pas eu droit à une reconnaissance de la part des critiques. En 1975, la saison 11 fut récompensée par le prix du meilleur scénario par la Writers' Guild of Great Britain.</p>
 
           
         </div>

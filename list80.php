@@ -31,6 +31,14 @@
               </thead>
               <tbody>
                 <tr>
+                  <td><a href="bioman.php">Bioman</a></td>
+                  <td>Action, Science Fiction</td>
+                  <td>Ryosuke Sakamoto, Naoto Tada</td>
+                  <td>Saburo Hatte, Yatsude</td>
+                  <td>1984 - 1985</td>
+                  <td>Japon(1984), France(1985)</td>
+                </tr>
+                <tr>
                   <td>Magnum</td>
                   <td>Drame, Action</td>
                   <td>Tom Selleck, John Hillerman</td>
@@ -61,14 +69,6 @@
                   <td>Hattori Kazuyasu, Toshiaki Kobayashi</td>
                   <td>1982 - 1983</td>
                   <td>Japon(1982), France(1983)</td>
-                </tr>
-                <tr>
-                  <td>Bioman</td>
-                  <td>Action, Science Fiction</td>
-                  <td>Ryosuke Sakamoto, Naoto Tada</td>
-                  <td>Saburo Hatte, Yatsude</td>
-                  <td>1984 - 1985</td>
-                  <td>Japon(1984), France(1985)</td>
                 </tr>
                 <tr>
                   <td>Sydney Police</td>
