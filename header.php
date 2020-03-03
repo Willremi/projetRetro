@@ -8,7 +8,7 @@
     
     <link rel="stylesheet" href="vendor/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
-    <script src="js/main.js" async></script>
+    
     <script src="vendor/js/jquery-3.4.1.slim.min.js"></script>
     <script src="vendor/js/bootstrap.min.js"></script>
 
