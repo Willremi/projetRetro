@@ -56,7 +56,7 @@
                 <h3>Pays d'origine</h3>
                 <p>Canada/France</p>
                 <h3>Nombre de saisons</h3>
-                <p>6 saison</p>
+                <p>6 saisons</p>
               </div>
             </div>
             
