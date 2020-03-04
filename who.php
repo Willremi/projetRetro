@@ -1,12 +1,12 @@
 <?php require('header.php'); ?>
   
-  <style>
+  <!-- <style>
       
     .jumbotron {
       filter: sepia(.55);
       }
       
-    </style>
+    </style> -->
   <div class="container-fluid">
       <div class="row">
         <div class="col-md-12 col-sm-12">
@@ -23,7 +23,7 @@
               </div>
               <div class="col-sm-3">
                 <strong>Années de diffusion : </strong>
-                <p>1963 - 1989</p>
+                <p><span id="annee">1963</span> - 1989</p>
               </div>
             </div>
             <hr>

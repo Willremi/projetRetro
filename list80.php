@@ -2,15 +2,7 @@
 
   <style>
 
-        @font-face {
-          font-family: venus;
-          src: url("fonts/venus_rising/venusrising.ttf");
-        }
-
-        td {
-          font-family: venus;
-          font-size: 16px;
-        }
+        
       
     </style>
   <div class="container-fluid">

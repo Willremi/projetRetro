@@ -84,15 +84,12 @@ caption {
     
   }
 
-//   @font-face {
-//     font-family: Typewriter;
-//     src: url("../fonts/jmh_typewriter_dry/Typewriter-Thin.otf");
-//   }
-
-//   #annee50 {
-//       font-family: Typewriter;
-//   }
-
+@media only screen and (max-width : 950px) {
+    #imageSerie {
+        float: left;
+       max-width: 100%;
+    }
+}
 
 // ------------------------------------
 #carousel {

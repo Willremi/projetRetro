@@ -28,7 +28,7 @@
               </div>
               <div class="col-sm-3">
                 <strong>Années de diffusion : </strong>
-                <p>1984 - 1985</p>
+                <p><span id="annee">1984</span> - 1985</p>
               </div>
             </div>
             <hr>

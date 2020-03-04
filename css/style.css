@@ -81,6 +81,12 @@ caption {
   caption-side: top;
 }
 
+@media only screen and (max-width: 950px) {
+  #imageSerie {
+    float: left;
+    max-width: 100%;
+  }
+}
 #carousel {
   position: absolute;
   width: 300px;

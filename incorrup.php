@@ -1,6 +1,6 @@
 <?php require('header.php'); ?>
   
-  <style>
+  <!-- <style>
       @font-face {
         font-family: Typewriter;
         src: url("fonts/jmh_typewriter_dry/Typewriter-Thin.otf");
@@ -9,12 +9,7 @@
       p, ul, figcaption {
           font-family: Typewriter;
       }
-
-      .jumbotron {
-      filter: grayscale(100%);
-      }
-      
-    </style>
+    </style> -->
   <div class="container-fluid">
       <div class="row">
         <div class="col-md-12 col-sm-12">
@@ -31,7 +26,7 @@
               </div>
               <div class="col-sm-3">
                 <strong>Années de diffusion : </strong>
-                <p>1959 - 1963</p>
+                <p><span id="annee">1959</span> - 1963</p>
               </div>
             </div>
             <hr>
