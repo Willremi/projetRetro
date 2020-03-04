@@ -1,11 +1,11 @@
 <?php require ('header.php'); ?>
   
-  <style>
+  <!-- <style>
       .jumbotron {
         filter: sepia(0.55);
       }
         
-    </style>
+    </style> -->
 
   <div class="container-fluid">
       <div class="row">

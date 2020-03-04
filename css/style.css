@@ -29,6 +29,15 @@ table tbody td a {
   color: #000;
 }
 
+tbody tr:hover {
+  background: black;
+  color: white;
+}
+tbody tr:hover a {
+  background: black;
+  color: white;
+}
+
 .col-sm-3 p {
   font-size: 20px;
 }
@@ -70,14 +79,6 @@ table tbody td a {
 
 caption {
   caption-side: top;
-}
-
-@font-face {
-  font-family: Typewriter;
-  src: url("../fonts/jmh_typewriter_dry/Typewriter-Thin.otf");
-}
-#annee50 {
-  font-family: Typewriter;
 }
 
 #carousel {

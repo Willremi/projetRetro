@@ -1,19 +1,5 @@
 <?php require('header.php'); ?>
 
-  <!-- <style>
-      @font-face {
-        font-family: Typewriter;
-        src: url("fonts/jmh_typewriter_dry/Typewriter-Thin.otf");
-      }
-    
-      td {
-          font-family: Typewriter;
-      }
-
-      .jumbotron {
-      filter: grayscale(100%);
-      }
-    </style> -->
 
   <div class="container-fluid" id="annee50">
       <div class="row">

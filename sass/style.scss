@@ -30,6 +30,15 @@ table tbody td a {
     color: #000;
 }
 
+tbody tr:hover {
+    background: black;
+    color: white;
+    a {
+        background: black;
+        color: white;
+    }
+}
+
 .col-sm-3 p {
     font-size: 20px;
 }
@@ -75,14 +84,14 @@ caption {
     
   }
 
-  @font-face {
-    font-family: Typewriter;
-    src: url("../fonts/jmh_typewriter_dry/Typewriter-Thin.otf");
-  }
+//   @font-face {
+//     font-family: Typewriter;
+//     src: url("../fonts/jmh_typewriter_dry/Typewriter-Thin.otf");
+//   }
 
-  #annee50 {
-      font-family: Typewriter;
-  }
+//   #annee50 {
+//       font-family: Typewriter;
+//   }
 
 
 // ------------------------------------
