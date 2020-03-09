@@ -1,71 +1,7 @@
 <?php require('header.php'); ?>
  
  <style>
- @font-face {
-  font-family: venus;
-  src: url("fonts/venus_rising/venusrising.ttf");
-}
-
-p, .col-sm-4>ul, figcaption, .annecdote {
-  /* font-family: venus; */
-  font-size: 20px;
-  color: green;
-}
-
-.ligne1 {
-  visibility: hidden;
-}
-
-#imageSerie1 {
-  float: right;
-  /* max-width: 50% !important; */
-}
-
-table {
-  max-width: 95%;
-}
-
-@media only screen and (max-width : 768px) {
-  
-  #imageSerie1 {
-    margin-left: 2%;
-  }
-  
-  .img-thumbnail {
-    width: 150px !important;
-    height: 150px !important;
-    
-  }
-  
-  iframe {
-    max-width: 90%;
-    max-height: auto;
-  }
-  
-  p {
-    font-size: 30px;
-    
-  }
-
-  th, td {
-    font-size: 20px;
-  }
-}
-
-@media only screen and (max-width: 576px) {
-  .ligne1 {
-    visibility: visible;
-  }
-  
-  p {
-    font-size: 22px;
-    
-  }
-
-  th{
-    font-size: 18px;
-  }
-}
+ 
 </style>
 
 <div class="container-fluid">
@@ -93,7 +29,7 @@ table {
     <p><strong>Highlander</strong> est une série télévisée fantastique franco-canadienne en 119 épisodes de 48 minutes, créée par Gregory Widen d'après le film du même nom de Russell Mulcahy et diffusée du 3 octobre 1992 au 16 mai 1998 en syndication. Sa coproduction a rassemblé des sociétés de nombreux pays.
     </p>
     <p>En France, la saison 1 a été diffusée en 1993 et 1994 sur TF1. Les saisons suivantes ont été diffusées de 1994 à 1999 sur M6. La série a ensuite été rediffusée sur W9, NRJ 12, France 4 et Game One. Au Québec, elle a été diffusée à partir de février 2000 sur Ztélé.</p>
-    <hr class="ligne1">
+    <hr class="ligne">
     </div>
     <div class="col-sm-4">
     <h3>Acteurs principaux</h3>
@@ -151,7 +87,7 @@ table {
       <h2>Vidéos et images</h2>
     </div>
     <div class="col-lg-6">
-      <div class="offset-sm-2" id="generiq">
+      <div class="offset-sm-2" id="generique">
       <iframe src="https://www.youtube.com/embed/eygTl787eYQ" width="500" height="315"></iframe>
         <p>Générique composé par Queen</p>
         <p>Le nom du générique est Princes of the Universe écrit et composé par Freddie Mercury pour le film et la série Highlander. C'est le seul titre de l'album sur lequel le chanteur est uniquement crédité. Le titre de la chanson provient du titre de travail du film</p>
@@ -164,10 +100,10 @@ table {
               <code>audio</code>.
             </audio>
           </figure>
-          <hr class="ligne1">
+          <hr class="ligne">
       </div>
     </div>
-    <div class="offset-xs-4 col-lg-6" id="imageSerie1">
+    <div class="offset-xs-4 col-lg-6" id="imageSerie">
     <img src="img/highlander1.jpg" alt="" class="img-thumbnail mr-2">   
       <img src="img/highlander2.jpg" alt="" class="img-thumbnail mr-2">   
       <img src="img/highlander3.jpg" alt="" class="img-thumbnail mr-2"> 

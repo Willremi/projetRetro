@@ -25,6 +25,10 @@ img.rounded {
     margin-left: 3%;
 }
 
+table {
+    max-width: 95%;
+  }
+
 table tbody td a {
     text-decoration: none;
     color: #000;
@@ -51,13 +55,18 @@ tbody tr:hover {
     list-style: none;
 }
 
+p, .col-sm-4>ul, figcaption, .annecdote {
+    font-size: 20px;
+    color: green;
+  }
+  
 .saison {
     margin : 2%;
 }
 
 .ligne {
-    margin-right: 100px;
-}
+    visibility: hidden;
+  }
 
 .img-thumbnail {
     width: 250px;
@@ -67,12 +76,11 @@ tbody tr:hover {
 
 #imageSerie {
     float: right;
-    max-width: 50%;
 }
 
 #generique {
     float: left;
-    max-width: 50%;
+    
 }
 
 .annecdote, .offset-sm-1>p {
@@ -84,19 +92,63 @@ caption {
     
   }
 
-@media only screen and (max-width : 950px) {
+// @media only screen and (max-width : 950px) {
+//     #imageSerie {
+//         float: left;
+//        max-width: 100%;
+//     }
+// }
+@media only screen and (max-width : 768px) {
+  
     #imageSerie {
-        float: left;
-       max-width: 100%;
+      margin-left: 2%;
     }
-}
+    
+    .img-thumbnail {
+      width: 150px !important;
+      height: 150px !important;
+      
+    }
+    
+    iframe {
+      max-width: 90%;
+      max-height: auto;
+    }
+    
+    p {
+      font-size: 30px;
+      
+    }
+  
+    th, td {
+      font-size: 20px;
+    }
 
-// ------------------------------------
-#carousel {
-    position: absolute;
-    width: 300px;
-    height: 300px;
-    display: hidden;
-    left: 100px;
-}
+    .annecdote li {
+        font-size: 30px;
+        max-width: 100%;
+    }
+  }
+  
+  @media only screen and (max-width: 576px) {
+    .ligne {
+      visibility: visible;
+    }
+    
+    p {
+      font-size: 22px;
+      
+    }
+  
+    th{
+      font-size: 18px;
+    }
+
+    .annecdote li {
+        
+        font-size: 22px;
+        max-width: 100%;
+    }
+  }
+
 

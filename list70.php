@@ -33,7 +33,7 @@
               </thead>
               <tbody>
                 <tr>
-                  <td><a href="ileperdue.php">L'Île perdue</a></td>
+                  <td><a href="#">L'Île perdue</a></td>
                   <td>Aventure, Famille</td>
                   <td>Tony Hughes, Jane Vallis</td>
                   <td>Michael Lawrence, Roger Mirams</td>

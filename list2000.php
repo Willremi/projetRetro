@@ -18,7 +18,7 @@
               </thead>
               <tbody>
                 <tr>
-                  <td><a href="tessa.php">Tessa à la pointe de l'épée</a></td>
+                  <td><a href="#">Tessa à la pointe de l'épée</a></td>
                   <td>Aventure, Western</td>
                   <td>Tessie Santiago, Anthony Lemke, Peter Wingfield</td>
                   <td>David Abramowitz</td>
