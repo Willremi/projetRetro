@@ -1,25 +1,61 @@
 <?php require('header.php'); ?>
 
-<div class="container-fluid" id="annee50">
-    <div class="row">
-        <div class="col-md-12">
-            <h1 class="mt2">Test</h1>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum itaque quos est, dolores modi earum sint! Possimus exercitationem cumque sint id deserunt quam iste quisquam ullam voluptatibus culpa provident sequi fugiat eligendi placeat, optio nobis laboriosam ex voluptate explicabo reprehenderit aliquid dolores laudantium. Corrupti quam, quibusdam beatae molestiae excepturi nostrum numquam voluptas consequatur. Libero voluptatem animi repudiandae est sit hic reiciendis a dolore tempora explicabo doloribus velit, ab cum obcaecati accusantium blanditiis eos quasi odio dolorem non. Commodi iure asperiores laudantium modi blanditiis maxime, consequatur deleniti cum molestiae quos excepturi? Nulla distinctio perferendis, dolorum exercitationem in vel, accusamus enim debitis ullam quisquam doloribus iusto animi culpa dicta fugiat iste et possimus earum quia. Ducimus esse magnam voluptatibus, nihil quo obcaecati?</p>
-        </div>
-    </div>
-</div>
-<div id="annee60">
-    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet aut ut veniam ipsum voluptatibus aliquid eligendi voluptatum neque. Ab omnis a enim deserunt, quasi culpa assumenda repellendus. Quos nihil labore molestias eius rerum officia rem laborum voluptatum expedita similique. Nostrum ipsam non odio repudiandae ad adipisci..</p>
-</div>
 <style>
-img {
-    width: 400px;
-    height: auto;
-}
+
+    /* table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        padding: 10px;
+        text-align: left;
+        border: solid 1px #ccc;
+    }
+
+    @media only screen and (max-width: 700px) {
+        table, thead, tbody, th, td, tr {
+            display: block;
+        } 
+
+        
+    } */
+   
 </style>
-<div id="carousel"></div>
+
+<div class="container-fluid">
+    <div class="table-responsive">
+    <table class="table table-bordered">
+          <thead>
+          <tr>
+            <th>Saison 1</th>
+            <th>Saison 2</th>
+            <th>Saison 3</th>
+            <th>Saison 4</th>
+            <th>Saison 5</th>
+            <th>Saison 6</th>
+          </tr>
+          </thead>
+          <tbody>
+          <tr>
+            <td colspan=4 style="text-align: center;">22 épisodes</td>
+            
+            <td>18 épisodes</td>
+            <td>13 épisodes</td>
+          </tr>
+          <tr>
+            <td>1992-1993</td>
+            <td>1993-1994</td>
+            <td>1994-1995</td>
+            <td>1995-1996</td>
+            <td>1996-1997</td>
+            <td>1997-1998</td>
+          </tr>
+          </tbody>
+        </table>
+    </div>
 
 </div>
 
-<script src="js/test.js" async></script>
+<!-- <script src="js/test.js" async></script> -->
 <?php require('footer.php'); ?>
