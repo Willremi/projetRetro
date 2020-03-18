@@ -31,3 +31,5 @@ if (adressUrl[1] == 50) {
     });   
 }
 
+var adresse = location.href;
+alert(adresse);
