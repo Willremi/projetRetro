@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="vendor/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
     
-    <script src="vendor/js/jquery-3.4.1.js"></script>
+    <script src="vendor/js/jquery-3.7.0.js"></script>
     <script src="vendor/js/bootstrap.min.js"></script>
 
     <link rel="shortcut icon" href="img/LogoTV.png" type="image/x-icon">
